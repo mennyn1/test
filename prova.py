@@ -1,3 +1,3 @@
 print "ciao"
-a = 12
-print a
+b = 12
+print b
